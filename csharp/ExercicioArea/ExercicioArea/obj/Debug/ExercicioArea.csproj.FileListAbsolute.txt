@@ -1,0 +1,7 @@
+C:\Users\Maria\Desktop\ExercicioArea\ExercicioArea\bin\Debug\ExercicioArea.exe.config
+C:\Users\Maria\Desktop\ExercicioArea\ExercicioArea\bin\Debug\ExercicioArea.exe
+C:\Users\Maria\Desktop\ExercicioArea\ExercicioArea\bin\Debug\ExercicioArea.pdb
+C:\Users\Maria\Desktop\ExercicioArea\ExercicioArea\obj\Debug\ExercicioArea.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\ExercicioArea\ExercicioArea\obj\Debug\ExercicioArea.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\ExercicioArea\ExercicioArea\obj\Debug\ExercicioArea.exe
+C:\Users\Maria\Desktop\ExercicioArea\ExercicioArea\obj\Debug\ExercicioArea.pdb

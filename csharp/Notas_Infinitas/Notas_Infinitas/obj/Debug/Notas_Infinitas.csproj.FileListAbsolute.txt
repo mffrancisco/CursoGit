@@ -1,0 +1,6 @@
+C:\Users\Maria\Desktop\Notas_Infinitas\Notas_Infinitas\bin\Debug\Notas_Infinitas.exe.config
+C:\Users\Maria\Desktop\Notas_Infinitas\Notas_Infinitas\bin\Debug\Notas_Infinitas.exe
+C:\Users\Maria\Desktop\Notas_Infinitas\Notas_Infinitas\bin\Debug\Notas_Infinitas.pdb
+C:\Users\Maria\Desktop\Notas_Infinitas\Notas_Infinitas\obj\Debug\Notas_Infinitas.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Notas_Infinitas\Notas_Infinitas\obj\Debug\Notas_Infinitas.exe
+C:\Users\Maria\Desktop\Notas_Infinitas\Notas_Infinitas\obj\Debug\Notas_Infinitas.pdb

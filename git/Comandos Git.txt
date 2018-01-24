@@ -1,0 +1,9 @@
+git init: Indica que a pasta criada deve ser varrida
+git add .: Prepara o arquivo para o commit
+git status: Indica o status atual do diretorio. Se há ou não algo ainda para ser commitado
+git commit -m "Mensagem": Comita o conteúdo e gera uma mensagem para indicação do que foi alterado
+git checkout -b nomedobranch: Cria um novo branch
+git checkout nomedobranch: Altera o branch atual para um branch desejado
+git log: Exibe um logde alterações
+git branch:
+git diff:

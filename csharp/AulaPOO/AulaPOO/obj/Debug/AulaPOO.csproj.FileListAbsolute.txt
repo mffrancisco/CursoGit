@@ -1,0 +1,7 @@
+C:\Users\Maria\Desktop\AulaPOO\AulaPOO\bin\Debug\AulaPOO.exe.config
+C:\Users\Maria\Desktop\AulaPOO\AulaPOO\bin\Debug\AulaPOO.exe
+C:\Users\Maria\Desktop\AulaPOO\AulaPOO\bin\Debug\AulaPOO.pdb
+C:\Users\Maria\Desktop\AulaPOO\AulaPOO\obj\Debug\AulaPOO.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\AulaPOO\AulaPOO\obj\Debug\AulaPOO.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\AulaPOO\AulaPOO\obj\Debug\AulaPOO.exe
+C:\Users\Maria\Desktop\AulaPOO\AulaPOO\obj\Debug\AulaPOO.pdb

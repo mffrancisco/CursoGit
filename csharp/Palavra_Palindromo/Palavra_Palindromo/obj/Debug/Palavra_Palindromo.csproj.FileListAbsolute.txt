@@ -1,0 +1,7 @@
+C:\Users\Maria\Desktop\Palavra_Palindromo\Palavra_Palindromo\obj\Debug\Palavra_Palindromo.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\Palavra_Palindromo\Palavra_Palindromo\obj\Debug\Palavra_Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Palavra_Palindromo\Palavra_Palindromo\bin\Debug\Palavra_Palindromo.exe.config
+C:\Users\Maria\Desktop\Palavra_Palindromo\Palavra_Palindromo\bin\Debug\Palavra_Palindromo.exe
+C:\Users\Maria\Desktop\Palavra_Palindromo\Palavra_Palindromo\bin\Debug\Palavra_Palindromo.pdb
+C:\Users\Maria\Desktop\Palavra_Palindromo\Palavra_Palindromo\obj\Debug\Palavra_Palindromo.exe
+C:\Users\Maria\Desktop\Palavra_Palindromo\Palavra_Palindromo\obj\Debug\Palavra_Palindromo.pdb

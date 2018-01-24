@@ -1,0 +1,7 @@
+C:\Users\Maria\Desktop\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.exe.config
+C:\Users\Maria\Desktop\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.exe
+C:\Users\Maria\Desktop\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.pdb
+C:\Users\Maria\Desktop\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.exe
+C:\Users\Maria\Desktop\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.pdb
